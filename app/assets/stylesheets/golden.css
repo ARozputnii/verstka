@@ -195,11 +195,8 @@ h1 {
 footer {
 	background: #f7f7f7;
 	margin-top: 80px;
-	padding-bottom: 120px;
 	text-align: center;
 	font-size: 10px;
-}
-
-footer p {
-	padding-top: 50px;
+	padding-top: 20px;
+	font-size: 10px;
 }
